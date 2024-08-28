@@ -1,4 +1,4 @@
-package com.devsuperior.customgrant;
+package com.devsuperior.demo.customgrant;
 
 import java.security.Principal;
 import java.util.HashSet;

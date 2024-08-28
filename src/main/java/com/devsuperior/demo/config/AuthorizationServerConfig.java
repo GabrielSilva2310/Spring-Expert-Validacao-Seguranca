@@ -1,4 +1,4 @@
-package com.devsuperior.config;
+package com.devsuperior.demo.config;
 
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;
@@ -43,9 +43,9 @@ import org.springframework.security.oauth2.server.authorization.token.OAuth2Toke
 import org.springframework.security.oauth2.server.authorization.token.OAuth2TokenGenerator;
 import org.springframework.security.web.SecurityFilterChain;
 
-import com.devsuperior.customgrant.CustomPasswordAuthenticationConverter;
-import com.devsuperior.customgrant.CustomPasswordAuthenticationProvider;
-import com.devsuperior.customgrant.CustomUserAuthorities;
+import com.devsuperior.demo.customgrant.CustomPasswordAuthenticationConverter;
+import com.devsuperior.demo.customgrant.CustomPasswordAuthenticationProvider;
+import com.devsuperior.demo.customgrant.CustomUserAuthorities;
 import com.nimbusds.jose.jwk.JWKSet;
 import com.nimbusds.jose.jwk.RSAKey;
 import com.nimbusds.jose.jwk.source.JWKSource;

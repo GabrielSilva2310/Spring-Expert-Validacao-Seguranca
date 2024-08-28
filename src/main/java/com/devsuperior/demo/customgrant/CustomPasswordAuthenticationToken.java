@@ -1,4 +1,4 @@
-package com.devsuperior.customgrant;
+package com.devsuperior.demo.customgrant;
 
 import java.util.Collections;
 import java.util.HashSet;
