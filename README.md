@@ -7,7 +7,7 @@ O desafio consiste em implementar as funcionalidades necessárias para que os te
 
 
 ## Especificações e Modelo Conceitual
-Este é um sistema de funcionários e departamentos com uma relação N-1 entre eles:
+Este é um sistema de eventos e cidades com uma relação N-1 entre eles:
 ![Modelo Conceitual](https://github.com/GabrielSilva2310/Assets/blob/main/Images%20Java%20Spring%20Expert/Valida%C3%A7%C3%A3o%20e%20Seguran%C3%A7a/Modelo%20Conceitual%20Desafio.png)
 
 
