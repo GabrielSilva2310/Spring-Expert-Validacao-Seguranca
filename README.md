@@ -59,6 +59,12 @@ Importar Projeto para uma IDE de sua escolha , e executar o JUnit nas classes Ci
 
 Use o Postman para fazer as requisições e verificar se os resultados correspondem aos testes.
 
+# Competências avaliadas no desafio
+- Desenvolvimento TDD de API Rest com Java e Spring Boot
+- Implementação de segurança com Spring Security e OAuth2
+- Controle de acesso por rotas e perfis de usuário
+- Validação de dados com Bean Validation
+
 # Autor
 
 Gabriel Da Silva 
